@@ -1,4 +1,4 @@
-### Hi there 👋, I am Tuli!
+### Hi there 👋, I am Sidratul!
 👋 I have pursued my BSc. in Information Technology from Jahangirnagar University.
 
 📫 I am passionate about exploring new technologies and always on the lookout for opportunities to learn and grow.
