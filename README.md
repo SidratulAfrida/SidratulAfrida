@@ -1,10 +1,9 @@
 ### Hi there 👋, I am Tuli!
-
 👋 I have pursued my BSc. in Information Technology from Jahangirnagar University.
 
 📫 I am passionate about exploring new technologies and always on the lookout for opportunities to learn and grow.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / HTML / CSS/deep learning/Artificial intelligence/java
 
 - 🔭 I’m currently working on  Deep Learning-based activity recognition techniques using wearable sensors for my thesis. 
 - 🌱 I’m currently learning Javascript , Java Spring Boot , Game Development(Unity),Mern Stack Development and SQL 
