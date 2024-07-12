@@ -1,4 +1,3 @@
-![](https://media.licdn.com/dms/image/D5603AQH7Oaq2LtFi9g/profile-displayphoto-shrink_200_200/0/1684600585139?e=1726099200&v=beta&t=nepm_WNCApP_C3xaTyWPJyWHm3NyqFYn1W4_JVLzUgE)
 ### Hi there 👋, I am Tuli!
 
 👋 I have pursued my BSc. in Information Technology from Jahangirnagar University.
