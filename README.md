@@ -1,16 +1,29 @@
-## Hi there 👋
+![](https://media.licdn.com/dms/image/D5603AQH7Oaq2LtFi9g/profile-displayphoto-shrink_200_200/0/1684600585139?e=1726099200&v=beta&t=nepm_WNCApP_C3xaTyWPJyWHm3NyqFYn1W4_JVLzUgE)
+### Hi there 👋, I am Tuli!
 
-<!--
-**SidratulAfrida/SidratulAfrida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I have pursued my BSc. in Information Technology from Jahangirnagar University.
 
-Here are some ideas to get you started:
+📫 I am passionate about exploring new technologies and always on the lookout for opportunities to learn and grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on  Deep Learning-based activity recognition techniques using wearable sensors for my thesis. 
+- 🌱 I’m currently learning Javascript , Java Spring Boot , Game Development(Unity),Mern Stack Development and SQL 
+- 👯 I’m looking to collaborate on github 
+- 😄 Pronouns: She/Her 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SidratulAfrida)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sidratul-afrida-104b7820b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sidratulafrida)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/bru_sh31?igsh=ZXV1YWIza245cWcz/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/SidratulAfrida)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/SidratulAfrida&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/SidratulAfrida/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/SidratulAfrida)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/SidratulAfrida)  
+
