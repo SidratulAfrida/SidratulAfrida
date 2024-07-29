@@ -6,7 +6,7 @@
 Skills: HTML / CSS/deep learning/Artificial intelligence/java
 
 - 🔭 I’m currently working on  Deep Learning-based activity recognition techniques using wearable sensors for my thesis. 
-- 🌱 I’m currently learning Javascript,Mern Stack Development and SQL 
+- 🌱 I’m currently learning Javascript,MERN Stack Development and SQL 
 - 👯 I’m looking to collaborate on github 
 - 😄 Pronouns: She/Her 
 
